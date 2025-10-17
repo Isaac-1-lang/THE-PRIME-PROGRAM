@@ -1,3 +1,4 @@
+import utils.session
 print ("All prime numbers between 1 and 100 are")
 for num in range(1, 101):
     if num > 1:
